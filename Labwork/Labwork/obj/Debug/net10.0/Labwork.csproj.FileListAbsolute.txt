@@ -1,0 +1,15 @@
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/bin/Debug/net10.0/Labwork
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/bin/Debug/net10.0/Labwork.deps.json
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/bin/Debug/net10.0/Labwork.runtimeconfig.json
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/bin/Debug/net10.0/Labwork.dll
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/bin/Debug/net10.0/Labwork.pdb
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/obj/Debug/net10.0/Labwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/obj/Debug/net10.0/Labwork.AssemblyInfoInputs.cache
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/obj/Debug/net10.0/Labwork.AssemblyInfo.cs
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/obj/Debug/net10.0/Labwork.csproj.CoreCompileInputs.cache
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/obj/Debug/net10.0/Labwork.sourcelink.json
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/obj/Debug/net10.0/Labwork.dll
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/obj/Debug/net10.0/refint/Labwork.dll
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/obj/Debug/net10.0/Labwork.pdb
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/obj/Debug/net10.0/Labwork.genruntimeconfig.cache
+/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/obj/Debug/net10.0/ref/Labwork.dll
