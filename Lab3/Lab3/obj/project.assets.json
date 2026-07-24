@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/Labwork.csproj",
-      "projectName": "Labwork",
-      "projectPath": "/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/Labwork.csproj",
+      "projectUniqueName": "/Users/salehabbasov/Desktop/NewLabDay/Lab3/Lab3/Lab3.csproj",
+      "projectName": "Lab3",
+      "projectPath": "/Users/salehabbasov/Desktop/NewLabDay/Lab3/Lab3/Lab3.csproj",
       "packagesPath": "/Users/salehabbasov/.nuget/packages/",
-      "outputPath": "/Users/salehabbasov/Desktop/NewLabDay/Labwork/Labwork/obj/",
+      "outputPath": "/Users/salehabbasov/Desktop/NewLabDay/Lab3/Lab3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/salehabbasov/.nuget/NuGet/NuGet.Config"
